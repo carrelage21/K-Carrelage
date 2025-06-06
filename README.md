@@ -32,8 +32,8 @@ Ce dépôt contiendra :
 ## 📞 Contact
 
 Pour toute information :  
-📧 contact@kcarrelage.fr *(adresse fictive, à personnaliser)*  
-📱 06 12 34 56 78 *(à personnaliser)*
+📧kazadinterieur@gmail.com *(adresse fictive, à personnaliser)*  
+📱 06 27 42 47 60 *(à personnaliser)*
 
 ---
 
