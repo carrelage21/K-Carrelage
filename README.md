@@ -1,37 +1,40 @@
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>K Carrelage</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 40px;
-      text-align: center;
-    }
-    h1 {
-      color: #2c3e50;
-    }
-    p {
-      color: #555;
-    }
-    footer {
-      margin-top: 40px;
-      font-size: 0.9em;
-      color: #888;
-    }
-  </style>
-</head>
-<body>
-  <h1>Bienvenue sur le site de K Carrelage</h1>
-  <p>Spécialiste en carrelage, pierre et revêtements à Dijon.</p>
-  <p>Site en construction. Revenir bientôt !</p>
-  
-  <footer>
-    © 2025 K Carrelage – Tous droits réservés.
-  </footer>
-</body>
-</html>
+# K-Carrelage
+
+Bienvenue sur le dépôt officiel de **K-Carrelage**, entreprise spécialisée dans :
+
+- la pose de carrelage, pierre et mosaïque,
+- les revêtements rigides, souples et liquides,
+- les travaux de finition de qualité professionnelle.
+
+## 📍 Informations
+
+- **Nom de l'entreprise** : K Carrelage  
+- **Forme juridique** : EURL  
+- **Adresse du siège social** : 7B rue du Chaperon Rouge, 21000 Dijon  
+- **Gérant** : Le Gérant  
+- **Début d'activité prévu** : 1er septembre 2025
+
+## 💼 Objectifs
+
+K Carrelage vise à offrir des prestations de haute qualité pour les professionnels et particuliers de la région dijonnaise.
+
+## 🌐 Site web
+
+Le site est en cours de création et sera bientôt disponible pour présenter nos services, réalisations, et faciliter les demandes de devis.
+
+## 📦 Structure du dépôt
+
+Ce dépôt contiendra :
+- le code source du site internet (HTML, CSS, JS),
+- les fichiers liés à la communication de l’entreprise,
+- les documents utiles pour la gestion du projet.
+
+## 📞 Contact
+
+Pour toute information :  
+📧 contact@kcarrelage.fr *(adresse fictive, à personnaliser)*  
+📱 06 12 34 56 78 *(à personnaliser)*
+
+---
+
+Merci de votre intérêt pour K-Carrelage !
